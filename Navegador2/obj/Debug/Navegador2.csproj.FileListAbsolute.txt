@@ -1,0 +1,11 @@
+C:\Users\fidel\source\repos\Navegador2\Navegador2\bin\Debug\Navegador2.exe.config
+C:\Users\fidel\source\repos\Navegador2\Navegador2\bin\Debug\Navegador2.exe
+C:\Users\fidel\source\repos\Navegador2\Navegador2\bin\Debug\Navegador2.pdb
+C:\Users\fidel\source\repos\Navegador2\Navegador2\obj\Debug\Navegador2.csproj.AssemblyReference.cache
+C:\Users\fidel\source\repos\Navegador2\Navegador2\obj\Debug\Navegador2.csproj.SuggestedBindingRedirects.cache
+C:\Users\fidel\source\repos\Navegador2\Navegador2\obj\Debug\Navegador2.Fidel_navegador.resources
+C:\Users\fidel\source\repos\Navegador2\Navegador2\obj\Debug\Navegador2.Properties.Resources.resources
+C:\Users\fidel\source\repos\Navegador2\Navegador2\obj\Debug\Navegador2.csproj.GenerateResource.cache
+C:\Users\fidel\source\repos\Navegador2\Navegador2\obj\Debug\Navegador2.csproj.CoreCompileInputs.cache
+C:\Users\fidel\source\repos\Navegador2\Navegador2\obj\Debug\Navegador2.exe
+C:\Users\fidel\source\repos\Navegador2\Navegador2\obj\Debug\Navegador2.pdb
